@@ -8,4 +8,4 @@ the leptospirosis_dataset contains data of 1387 patients related to leptospirosi
 the dataset contains many NA values. so this is best approach to handle missing values and NAs
 
 # Test Accuracy
-at the end of the code of  you can get the test prediction, then upload it to the Kaggle competition opened by my university to look the test accuracy from this link https://www.kaggle.com/competitions/st40352023/leaderboard
+at the end of the code of logistic regression.ipynb, you can get the test predictions csv file, then upload it to the Kaggle competition which was opened by my university to check the test accuracy from this link https://www.kaggle.com/competitions/st40352023/leaderboard
